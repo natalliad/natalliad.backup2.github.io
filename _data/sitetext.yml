@@ -1,6 +1,6 @@
 header:
     title: ND Insurance Agency
-    text: We provide customized insurance to suite your budget and coverage.
+    #text: We provide customized insurance to suite your budget and coverage.
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
