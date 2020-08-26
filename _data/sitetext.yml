@@ -25,15 +25,9 @@ portfolio:
     section: portfolio
     
 
-timeline:
-    title: "About" 
-    text: "ND AGENCY LLC"
-    text: "22 Southern Blvd, Suite 107"
-    text: "Nesconset, NY 11767"
-    text: "Ph: 631-780-4401"
-    text: "Fax: 631-417-3000"
-    
-    section: timeline
+#timeline:
+#    title: "About"
+#    section: timeline
     #events:
     #  - title: "Started"
     #    year: "2009-2011"
@@ -63,7 +57,7 @@ timeline:
 
 about:
     title: "About Us"
-    text: "our story"
+    text: "ND AGENCY LLC \n 22 Southern Blvd, \n Suite 107 Nesconset, \n NY 11767 \n Ph: 631-780-4401 \n Fax: 631-417-3000"
     section: about
 
 clients:
