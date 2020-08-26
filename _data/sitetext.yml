@@ -1,18 +1,18 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: ND Insurance Agency
+    text: We provide customized insurance to suite your budget and coverage.
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Insurance"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Auto"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Home"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
@@ -27,10 +27,10 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "ND Insurance Agency"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Started"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
@@ -80,13 +80,13 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "OUR TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Natallia Dounar"
+        role: "Insurance Broker"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -95,8 +95,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Oleg Petrovsky"
+        role: "Подметайло"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -105,8 +105,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Daria Dounar-Petrovsky"
+        role: "Bosss"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -118,7 +118,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Ph: "
     section: contact
     
 footer:
