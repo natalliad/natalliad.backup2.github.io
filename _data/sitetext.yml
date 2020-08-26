@@ -27,8 +27,13 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "ND Insurance Agency"
-    #section: timeline
+    text: "ND AGENCY LLC"
+    text: "22 Southern Blvd, Suite 107"
+    text: "Nesconset, NY 11767"
+    text: "Ph: 631-780-4401"
+    text: "Fax: 631-417-3000"
+    
+    section: timeline
     #events:
     #  - title: "Started"
     #    year: "2009-2011"
